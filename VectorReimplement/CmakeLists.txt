@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.0.0)
+
+project(vector LANGUAGES CXX) 
+
+add_subdirectory(./src/*.cpp)
+add_subdirectory(./inc/vec.h)
+
+add_executable(vector )
