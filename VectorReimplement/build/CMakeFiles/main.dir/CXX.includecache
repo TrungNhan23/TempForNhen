@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/vec.h
+iostream
+-
+vec.h
+../inc/vec.h
+
+/home/nhan/Desktop/TempForNhen/TempForNhen/VectorReimplement/src/main.cpp
+vec.h
+/home/nhan/Desktop/TempForNhen/TempForNhen/VectorReimplement/src/vec.h
+iostream
+-
+
