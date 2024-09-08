@@ -22,10 +22,12 @@ public:
     // vec &operator=(initializer_list <type> il);
     void push_back(type value);
     void pop_back();
+    void push_front(int val); 
+    void pop_front(); 
     int size();
     int capacity();
     void insert(type value, int pos);
-    bool isEmpty(); 
+    bool isEmpty();
     void show();
 };
 
@@ -86,15 +88,18 @@ void vec<type>::push_back(type value)
     current++;
 }
 
-template <typename type> 
-void vec<type>::pop_back(){
-    if(current == 0) return; 
+template <typename type>
+void vec<type>::pop_back()
+{
+    if (current == 0)
+        return;
     current--;
 }
 
-template <typename type> 
-bool vec<type>::isEmpty(){
-    return (current == 0) ? true:false;
+template <typename type>
+bool vec<type>::isEmpty()
+{
+    return (current == 0) ? true : false;
 }
 
 #endif
