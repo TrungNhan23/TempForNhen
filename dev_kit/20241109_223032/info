@@ -1,0 +1,711 @@
+{
+  "uuid": "c09f603aa732df5b2f055f215a10b536",
+  "path": "Offline/dev_kit",
+  "name": "dev_kit",
+  "content": "",
+  "created_at": "2024-11-02 19:53:02",
+  "updated_at": "2024-11-09 22:30:32",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c586c24102edbd83e241a1b75718b90c",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7347be22b5856eba3ffccb74c7404572": 1,
+        "945eb89bd90b422892a63df3cac8a3d9": 8,
+        "bc8001dda7314b9598d4dac9f24e95af": 1,
+        "586487649dab349ae90bf8e0f9663238": 1,
+        "78a27734b445d7156513882924564889": 1,
+        "e28c72b5642b4efd8cb6de022973564b": 1,
+        "6f0258107b954d37a3c8715cac3f23ba": 5,
+        "1c26123d8c724269a101e6ddd68fbc43": 20,
+        "0a83670c202e448baa92265032f2bc8e": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 9,
+        "8faf85626062452bb09e0ae313e25f19": 1,
+        "50e489201e06436ca4ae2fef6715f2b9": 1,
+        "0d9af8609425489a9ffaded38c04d30b": 2,
+        "b47c041a77dd4cc7a8c9986e43ffac86": 1,
+        "bf4e0793a62e5af4f69f3871e1c08ddb": 1,
+        "53e81d7987f74401a397f5e8a7b45d2d": 1,
+        "93455bee3f7e4a8d82d260943c6e70b8": 2,
+        "965f610d5ab042839ceb4e2fab07a9f4": 1,
+        "bd37ade8b0004e6b9778c7005f60be33": 1,
+        "7adb68d7a3e14674bf1efb3a7f834d31": 1,
+        "c2a49185d2a54abea5370735cadb97c0": 2,
+        "985f5c8b40e3432a9d88de6e30b1ad08": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "20p,0603",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1u",
+          7,
+          "C0603",
+          "C3,C4,C5,C6,C7,C8,C9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "330u",
+          2,
+          "CAP-D8.0XH10.5",
+          "C10,C11",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7uf",
+          2,
+          "C1206",
+          "C12,C14",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u,0603",
+          2,
+          "RC-0603",
+          "C13,C15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SS34",
+          1,
+          "SMA(DO-214AC)",
+          "D1",
+          {
+            "Manufacturer Part": "SS34",
+            "Manufacturer": "Yenji",
+            "Supplier": "LCSC",
+            "Supplier Part": "C142458"
+          }
+        ],
+        [
+          "ZS-HEADER -2.54_1X20",
+          2,
+          "ZS-HEADER-HEADER-FEMALE-2.54_1X20",
+          "H1,H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUTTON2-3*6*2.5",
+          1,
+          "SW-SMD_L6.0-W3.7-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "BUTTON2-3*6*2.5",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900009018"
+          }
+        ],
+        [
+          "47uH",
+          1,
+          "IND-SMD_L12.0-W12.0_CDRH127NP",
+          "L1",
+          {
+            "Manufacturer Part": "CDRH127NP-470MC",
+            "Manufacturer": "Sumida",
+            "Supplier": "LCSC",
+            "Supplier Part": "C167265"
+          }
+        ],
+        [
+          "SR430281N/32",
+          1,
+          "LED-SEG-TH_12P-L32.1-W10.0-P2.54-S7.62-BL",
+          "LED1",
+          {
+            "Manufacturer Part": "SR430281N/32",
+            "Manufacturer": "ARKLED(方舟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C252225"
+          }
+        ],
+        [
+          "GL3516(5-10K)",
+          1,
+          "RES-TH_L5.1-W4.3-P3.40-D0.5",
+          "R1",
+          {
+            "Manufacturer Part": "GL3516（5-10K）",
+            "Manufacturer": "JCHL(晶创和立)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C11287"
+          }
+        ],
+        [
+          "10kΩ",
+          5,
+          "R0603",
+          "R2,R3,R4,R5,R6",
+          {
+            "Manufacturer Part": "TD03E1002BT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2991686"
+          }
+        ],
+        [
+          "220Ω",
+          20,
+          "R0603",
+          "R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29",
+          {
+            "Manufacturer Part": "CRCW0603220RFKEA",
+            "Manufacturer": "VISHAY(威世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C844757"
+          }
+        ],
+        [
+          "DHT11_C87032",
+          1,
+          "SENSOR-TH_DHT11-1",
+          "S1",
+          {
+            "Manufacturer Part": "DHT11",
+            "Manufacturer": "AOSONG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87032"
+          }
+        ],
+        [
+          "STM32F103C8T6",
+          1,
+          "LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "STM32F103C8T6",
+            "Manufacturer": "ST(意法半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C8734"
+          }
+        ],
+        [
+          "LED_0603_R",
+          8,
+          "LED0603-RD",
+          "U2,U3,U4,U5,U6,U7,U8,U9",
+          {
+            "Manufacturer Part": "LED_0603_R",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900016084"
+          }
+        ],
+        [
+          "MC74HC245AFL2",
+          1,
+          "SOIC-20_L12.6-W5.3-P1.27-LS7.8-BL",
+          "U10",
+          {
+            "Manufacturer Part": "MC74HC245AFL2",
+            "Manufacturer": "MOTOROLA(摩托罗拉)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3587560"
+          }
+        ],
+        [
+          "74HC139D,653",
+          1,
+          "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+          "U11",
+          {
+            "Manufacturer Part": "74HC139D,653",
+            "Manufacturer": "Nexperia(安世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5603"
+          }
+        ],
+        [
+          "JUMPER3",
+          1,
+          "HDR-TH_3P-P2.54-V-M-A",
+          "U12",
+          {
+            "Manufacturer Part": "Jumper3",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2940050"
+          }
+        ],
+        [
+          "ZX-XH2.54-5PZZ-Y",
+          2,
+          "CONN-TH_5P-P2.54_ZX-XH2.54-5PZZ-Y",
+          "U13,U15",
+          {
+            "Manufacturer Part": "ZX-XH2.54-5PZZ-Y",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22388687"
+          }
+        ],
+        [
+          "JUMPER4DRD",
+          1,
+          "JUMPER4",
+          "U14",
+          {
+            "Manufacturer Part": "Jumper4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2940050"
+          }
+        ],
+        [
+          "POWER-JACK dc5525",
+          1,
+          "DC-IN-TH_POWER-JACK",
+          "U16",
+          {
+            "Manufacturer Part": "POWER-JACK",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001795"
+          }
+        ],
+        [
+          "LM2596S-5.0",
+          1,
+          "TO-263-5_L10.6-W9.6-P1.70-LS15.9-BR",
+          "U17",
+          {
+            "Manufacturer Part": "LM2596S-5.0/NOPB",
+            "Manufacturer": "Texas Instruments",
+            "Supplier": "LCSC",
+            "Supplier Part": "C116713"
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT223",
+          "U18",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8MHz",
+          1,
+          "HC-49US_L11.5-W4.5-P4.88",
+          "X1",
+          {
+            "Manufacturer Part": "49S-8.00-20-10-10/A",
+            "Manufacturer": "LIMING(利明)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C240953"
+          }
+        ]
+      ],
+      "updateTime": 1731153993,
+      "createTime": 1730551983,
+      "histories": [],
+      "created_at": "2024-11-02 19:53:03",
+      "updated_at": "2024-11-09 19:06:33"
+    },
+    {
+      "uuid": "127fc01f8b9966d0874fdbda7c6f56ca",
+      "puuid": "c09f603aa732df5b2f055f215a10b536",
+      "title": "PCB_dev_kit",
+      "filename": "PCB_dev_kit.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 9,
+        "6e4e6a829bf340c3b391f90b97d10309": 2,
+        "7bdec8012728462a85919a4d0d033579": 2,
+        "fccbd4f798384265856cc5e04e87a39a": 2,
+        "431cae4d05804bf6a99b06b5313ddbb3": 1,
+        "a011978fdd454c34a8fb531a1033959a": 2,
+        "ad93db20f9154747917ef59d9c83636d": 1,
+        "65bf42857c834e44ae518b420b0c0955": 1,
+        "347afb25d6d34a3b8cbf8f25881e2210": 1,
+        "83f217aaf6824cf492743982ddb588fc": 1,
+        "398691f1f785460098bbe5ee6590333c": 25,
+        "a446ea97c9e14cd08f329bacb6eb36d9": 1,
+        "4a13c433861640209b7106f419770da9": 1,
+        "7335dfa67b564d7988d09a073a20aa42": 8,
+        "1f3ed02511514eb990df0513c66fabd9": 1,
+        "5cafa9ae5a9e4b2ab529c9f08b47eb94": 1,
+        "f977cb041bb74843bf51fa57b71be923": 1,
+        "02491d7bb99c46779b1a89c97d4ea05e": 2,
+        "e2b319103c854c32ad90ed4a7a3b6058": 1,
+        "c01e5e63152d4414aaa494d98046356c": 1,
+        "b7cb7182da034127a8d9fea0888ff571": 1,
+        "18800f7636494f0f8573150b0a5b0cfe": 1,
+        "c3f5f0ccc4444176a5a6d81e2c6071f5": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "20p,0603",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1u",
+          7,
+          "C0603",
+          "C3,C4,C5,C6,C7,C8,C9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "330u",
+          2,
+          "CAP-D8.0XH10.5",
+          "C10,C11",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7uf",
+          2,
+          "C1206",
+          "C12,C14",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u,0603",
+          2,
+          "RC-0603",
+          "C13,C15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SS34",
+          1,
+          "SMA(DO-214AC)",
+          "D1",
+          {
+            "Manufacturer Part": "SS34",
+            "Manufacturer": "Yenji",
+            "Supplier": "LCSC",
+            "Supplier Part": "C142458"
+          }
+        ],
+        [
+          "ZS-HEADER -2.54_1X20",
+          2,
+          "ZS-HEADER-HEADER-FEMALE-2.54_1X20",
+          "H1,H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BUTTON2-3*6*2.5",
+          1,
+          "SW-SMD_L6.0-W3.7-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "BUTTON2-3*6*2.5",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900009018"
+          }
+        ],
+        [
+          "47uH",
+          1,
+          "IND-SMD_L12.0-W12.0_CDRH127NP",
+          "L1",
+          {
+            "Manufacturer Part": "CDRH127NP-470MC",
+            "Manufacturer": "Sumida",
+            "Supplier": "LCSC",
+            "Supplier Part": "C167265"
+          }
+        ],
+        [
+          "SR430281N/32",
+          1,
+          "LED-SEG-TH_12P-L32.1-W10.0-P2.54-S7.62-BL",
+          "LED1",
+          {
+            "Manufacturer Part": "SR430281N/32",
+            "Manufacturer": "ARKLED(方舟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C252225"
+          }
+        ],
+        [
+          "GL3516(5-10K)",
+          1,
+          "RES-TH_L5.1-W4.3-P3.40-D0.5",
+          "R1",
+          {
+            "Manufacturer Part": "GL3516（5-10K）",
+            "Manufacturer": "JCHL(晶创和立)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C11287"
+          }
+        ],
+        [
+          "10kΩ",
+          5,
+          "R0603",
+          "R2,R3,R4,R5,R6",
+          {
+            "Manufacturer Part": "TD03E1002BT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2991686"
+          }
+        ],
+        [
+          "220Ω",
+          20,
+          "R0603",
+          "R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29",
+          {
+            "Manufacturer Part": "CRCW0603220RFKEA",
+            "Manufacturer": "VISHAY(威世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C844757"
+          }
+        ],
+        [
+          "DHT11_C87032",
+          1,
+          "SENSOR-TH_DHT11-1",
+          "S1",
+          {
+            "Manufacturer Part": "DHT11",
+            "Manufacturer": "AOSONG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87032"
+          }
+        ],
+        [
+          "STM32F103C8T6",
+          1,
+          "LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "STM32F103C8T6",
+            "Manufacturer": "ST(意法半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C8734"
+          }
+        ],
+        [
+          "LED_0603_R",
+          8,
+          "LED0603-RD",
+          "U2,U3,U4,U5,U6,U7,U8,U9",
+          {
+            "Manufacturer Part": "LED_0603_R",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900016084"
+          }
+        ],
+        [
+          "MC74HC245AFL2",
+          1,
+          "SOIC-20_L12.6-W5.3-P1.27-LS7.8-BL",
+          "U10",
+          {
+            "Manufacturer Part": "MC74HC245AFL2",
+            "Manufacturer": "MOTOROLA(摩托罗拉)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3587560"
+          }
+        ],
+        [
+          "74HC139D,653",
+          1,
+          "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+          "U11",
+          {
+            "Manufacturer Part": "74HC139D,653",
+            "Manufacturer": "Nexperia(安世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5603"
+          }
+        ],
+        [
+          "JUMPER3",
+          1,
+          "HDR-TH_3P-P2.54-V-M-A",
+          "U12",
+          {
+            "Manufacturer Part": "Jumper3",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2940050"
+          }
+        ],
+        [
+          "ZX-XH2.54-5PZZ-Y",
+          2,
+          "CONN-TH_5P-P2.54_ZX-XH2.54-5PZZ-Y",
+          "U13,U15",
+          {
+            "Manufacturer Part": "ZX-XH2.54-5PZZ-Y",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22388687"
+          }
+        ],
+        [
+          "JUMPER4DRD",
+          1,
+          "JUMPER4",
+          "U14",
+          {
+            "Manufacturer Part": "Jumper4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2940050"
+          }
+        ],
+        [
+          "POWER-JACK dc5525",
+          1,
+          "DC-IN-TH_POWER-JACK",
+          "U16",
+          {
+            "Manufacturer Part": "POWER-JACK",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001795"
+          }
+        ],
+        [
+          "LM2596S-5.0",
+          1,
+          "TO-263-5_L10.6-W9.6-P1.70-LS15.9-BR",
+          "U17",
+          {
+            "Manufacturer Part": "LM2596S-5.0/NOPB",
+            "Manufacturer": "Texas Instruments",
+            "Supplier": "LCSC",
+            "Supplier Part": "C116713"
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT223",
+          "U18",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8MHz",
+          1,
+          "HC-49US_L11.5-W4.5-P4.88",
+          "X1",
+          {
+            "Manufacturer Part": "49S-8.00-20-10-10/A",
+            "Manufacturer": "LIMING(利明)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C240953"
+          }
+        ]
+      ],
+      "updateTime": 1731166232,
+      "createTime": 1731151141,
+      "histories": [],
+      "created_at": "2024-11-09 18:19:01",
+      "updated_at": "2024-11-09 22:30:32"
+    }
+  ],
+  "sort": [],
+  "title": "dev_kit",
+  "foldername": "dev_kit",
+  "schfilename": "dev_kit.json",
+  "schfilemtime": 1731153993456
+}
