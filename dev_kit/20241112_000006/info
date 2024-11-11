@@ -4,7 +4,7 @@
   "name": "dev_kit",
   "content": "",
   "created_at": "2024-11-02 19:53:02",
-  "updated_at": "2024-11-09 23:00:16",
+  "updated_at": "2024-11-12 00:00:06",
   "stick": "",
   "documents": [
     {
@@ -24,7 +24,7 @@
         "6f0258107b954d37a3c8715cac3f23ba": 5,
         "1c26123d8c724269a101e6ddd68fbc43": 20,
         "0a83670c202e448baa92265032f2bc8e": 1,
-        "24eeb2ceca08480b92b847b6a310acda": 9,
+        "24eeb2ceca08480b92b847b6a310acda": 8,
         "8faf85626062452bb09e0ae313e25f19": 1,
         "50e489201e06436ca4ae2fef6715f2b9": 1,
         "0d9af8609425489a9ffaded38c04d30b": 2,
@@ -60,9 +60,9 @@
         ],
         [
           "0.1u",
-          7,
+          6,
           "C0603",
-          "C3,C4,C5,C6,C7,C8,C9",
+          "C3,C4,C6,C7,C8,C9",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -347,11 +347,11 @@
           }
         ]
       ],
-      "updateTime": 1731153993,
+      "updateTime": 1731174232,
       "createTime": 1730551983,
       "histories": [],
       "created_at": "2024-11-02 19:53:03",
-      "updated_at": "2024-11-09 19:06:33"
+      "updated_at": "2024-11-10 00:43:52"
     },
     {
       "uuid": "127fc01f8b9966d0874fdbda7c6f56ca",
@@ -365,6 +365,9 @@
       "components": {
         "398691f1f785460098bbe5ee6590333c": 25,
         "f8151fdc728a41ebbc304e11d39e5437": 9,
+        "5cafa9ae5a9e4b2ab529c9f08b47eb94": 1,
+        "65bf42857c834e44ae518b420b0c0955": 1,
+        "18800f7636494f0f8573150b0a5b0cfe": 1,
         "6e4e6a829bf340c3b391f90b97d10309": 2,
         "7bdec8012728462a85919a4d0d033579": 2,
         "fccbd4f798384265856cc5e04e87a39a": 2,
@@ -382,10 +385,7 @@
         "e2b319103c854c32ad90ed4a7a3b6058": 1,
         "c01e5e63152d4414aaa494d98046356c": 1,
         "c3f5f0ccc4444176a5a6d81e2c6071f5": 1,
-        "b7cb7182da034127a8d9fea0888ff571": 1,
-        "5cafa9ae5a9e4b2ab529c9f08b47eb94": 1,
-        "65bf42857c834e44ae518b420b0c0955": 1,
-        "18800f7636494f0f8573150b0a5b0cfe": 1
+        "b7cb7182da034127a8d9fea0888ff571": 1
       },
       "BOM": [
         [
@@ -696,16 +696,16 @@
           }
         ]
       ],
-      "updateTime": 1731168016,
+      "updateTime": 1731344406,
       "createTime": 1731151141,
       "histories": [],
       "created_at": "2024-11-09 18:19:01",
-      "updated_at": "2024-11-09 23:00:16"
+      "updated_at": "2024-11-12 00:00:06"
     }
   ],
   "sort": [],
   "title": "dev_kit",
   "foldername": "dev_kit",
   "schfilename": "dev_kit.json",
-  "schfilemtime": 1731153993456
+  "schfilemtime": 1731174232737
 }
