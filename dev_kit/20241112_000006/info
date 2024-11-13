@@ -1,10 +1,10 @@
 {
   "uuid": "c09f603aa732df5b2f055f215a10b536",
-  "path": "Offline/dev_kit",
-  "name": "dev_kit",
+  "path": "Offline/20241112_000006",
+  "name": "20241112_000006",
   "content": "",
   "created_at": "2024-11-02 19:53:02",
-  "updated_at": "2024-11-12 00:00:06",
+  "updated_at": "2024-11-13 19:24:26",
   "stick": "",
   "documents": [
     {
@@ -347,11 +347,11 @@
           }
         ]
       ],
-      "updateTime": 1731174232,
+      "updateTime": 1731491944,
       "createTime": 1730551983,
       "histories": [],
       "created_at": "2024-11-02 19:53:03",
-      "updated_at": "2024-11-10 00:43:52"
+      "updated_at": "2024-11-13 16:59:04"
     },
     {
       "uuid": "127fc01f8b9966d0874fdbda7c6f56ca",
@@ -696,16 +696,16 @@
           }
         ]
       ],
-      "updateTime": 1731344406,
+      "updateTime": 1731500666,
       "createTime": 1731151141,
       "histories": [],
       "created_at": "2024-11-09 18:19:01",
-      "updated_at": "2024-11-12 00:00:06"
+      "updated_at": "2024-11-13 19:24:26"
     }
   ],
   "sort": [],
-  "title": "dev_kit",
-  "foldername": "dev_kit",
+  "title": "20241112_000006",
+  "foldername": "20241112_000006",
   "schfilename": "dev_kit.json",
-  "schfilemtime": 1731174232737
+  "schfilemtime": 1731491945018
 }
